@@ -32,7 +32,7 @@ CREATE TABLE `gudang_elektronik` (
   `id` int(11) NOT NULL,
   `nama` text NOT NULL,
   `stok` int(11) NOT NULL,
-  `hargqa` int(11) NOT NULL
+  `harga` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
